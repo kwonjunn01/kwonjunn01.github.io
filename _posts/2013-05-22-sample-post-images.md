@@ -9,12 +9,12 @@ comments: true
 
 
 <figure class="six">
-	<img src="/assest/img/20210425/1.jpg">
-	<img src="/assest/img/20210425/2.jpg">
-	<img src="/assest/img/20210425/3.jpg">
-    <img src="/assest/img/20210425/4.jpg">
-    <img src="/assest/img/20210425/5.jpg">
-    <img src="/assest/img/20210425/6.jpg">
+	<img src="/assests/img/20210425/1.jpg">
+	<img src="/assests/img/20210425/2.jpg">
+	<img src="/assests/img/20210425/3.jpg">
+    <img src="/assests/img/20210425/4.jpg">
+    <img src="/assests/img/20210425/5.jpg">
+    <img src="/assests/img/20210425/6.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 
