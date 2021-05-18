@@ -22,3 +22,4 @@ comments: descripton for me
 	<img src="/assets/img/about/23.4.jpg">
 {% endcapture %}
 {% include gallery images=images caption="Gears" cols=2}
+ 
