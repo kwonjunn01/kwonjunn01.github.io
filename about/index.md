@@ -15,6 +15,6 @@ comments: descripton for me
 
 
 ## Gears
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/x-s10_product_list-poiu.jpg"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/23.4.jpg">|
+|<img width="600" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/x-s10_product_list-poiu.jpg"> |  <img width="600" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/23.4.jpg">|
 
 
