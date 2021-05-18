@@ -15,8 +15,8 @@ comments: descripton for me
 
 
 ## Gears
-Solarized dark             |  Solarized Ocean
+Fujifilm X-S10          |  Viltrox 23mm f1.4
 :-------------------------:|:-------------------------:
-![]<img width="600" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/x-s10_product_list-poiu.jpg"> | ![]<img width="600" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/23.4.jpg">|
+<img width="600" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/x-s10_product_list-poiu.jpg"> | <img width="600" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/about/23.4.jpg">|
 
 
