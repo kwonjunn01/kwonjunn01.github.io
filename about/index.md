@@ -21,4 +21,4 @@ comments: descripton for me
     <img src="/assets/img/about/x-s10_product_list-poiu.jpg">
 	<img src="/assets/img/about/23.4.jpg">
 {% endcapture %}
-{% include gallery images=images caption="Gears" cols=3 
+{% include gallery images=images caption="Gears" cols=2}
