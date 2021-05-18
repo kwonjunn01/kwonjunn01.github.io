@@ -14,3 +14,7 @@ comments: descripton for me
 ## Playing
 
 
+## Gears
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/gears/xs10.jpg"> |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/assets/img/gears/23.4.jpg">|
+
+
