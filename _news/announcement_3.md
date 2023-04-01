@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Probabilitic Prompt Learning for Dense Prediction" accepted to CVPR'23!
+A paper on dense prediction is accepted to CVPR 2023!
