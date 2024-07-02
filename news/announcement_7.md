@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-A paper on Soure-free object detection is accepted to ECCV 2024!
+A paper on SFOD is accepted to ECCV 2024!
