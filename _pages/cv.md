@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: false
 nav_order: 4
-cv_pdf: 23_khj_cv.pdf
+cv_pdf: 25_khj_cv.pdf
 ---
